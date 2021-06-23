@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import { Link } from "react-router-dom";
-import logo from "../assets/Travvelbaby Main White (1).svg";
+import logo from "../assets/Travvelbaby_Main_White_1.svg";
 
 const PassRestPage = () => {
   return (

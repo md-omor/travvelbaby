@@ -1,0 +1,138 @@
+{
+    "main": {
+        "bannerImg": "Bitmap.png",
+        "UserImg": "AvatarUserProfile.png",
+        "UserName": "Nina Uhlikova",
+        "UserBio": "“ Model based out of New York. Follow my adventure as I travel the globe.“",
+        "flowUpUser": "Followed by Sara, Alia, Mendes, Charles, +30 others",
+        "UserVerifyLogo": "correct.png",
+        "UserAccMainContent": [{
+            "id": 1,
+            "userIcon": "users.png"
+        }, {
+            "id": 2,
+            "userIcon": "down-filled-triangular-arrow.png"
+        }, {
+            "id": 3,
+            "userIcon": "more.png"
+        }],
+        "UserSocalIcon": [{
+            "id": 1,
+            "SocalIcon": "001-instagram.png"
+        }, {
+            "id": 2,
+            "SocalIcon": "002-facebook.png"
+        }, {
+            "id": 3,
+            "SocalIcon": "003-twitter.png"
+        }],
+        "userfollower": [{
+            "Count": "800",
+            "CountName": "POSTS"
+        }, {
+            "Count": "1m",
+            "CountName": "FOLLOWERS"
+        }, {
+            "Count": "100",
+            "CountName": "FOLLOWING"
+        }],
+        "publicProfilePostImg": [{
+                "id": 1,
+                "images": "Bitmap.png",
+                "HovHeartimages": "heart.png",
+                "HovComImages": "speech-bubble.png",
+                "HovHeartText": "13.5",
+                "HovComText": "6.5"
+            },
+            {
+                "id": 2,
+                "images": "Bitmap(1).png",
+                "HovHeartimages": "heart.png",
+                "HovComImages": "speech-bubble.png",
+                "HovHeartText": "13.5",
+                "HovComText": "6.5"
+            },
+            {
+                "id": 3,
+                "images": "Bitmap(2).png",
+                "HovHeartimages": "heart.png",
+                "HovComImages": "speech-bubble.png",
+                "HovHeartText": "13.5",
+                "HovComText": "6.5"
+            },
+            {
+                "id": 4,
+                "images": "Bitmap(3).png",
+                "HovHeartimages": "heart.png",
+                "HovComImages": "speech-bubble.png",
+                "HovHeartText": "13.5",
+                "HovComText": "6.5"
+            },
+            {
+                "id": 5,
+                "images": "Bitmap(4).png",
+                "HovHeartimages": "heart.png",
+                "HovComImages": "speech-bubble.png",
+                "HovHeartText": "13.5",
+                "HovComText": "6.5"
+            },
+            {
+                "id": 6,
+                "images": "Bitmap(5).png",
+                "HovHeartimages": "heart.png",
+                "HovComImages": "speech-bubble.png",
+                "HovHeartText": "13.5",
+                "HovComText": "6.5"
+            },
+            {
+                "id": 7,
+                "images": "Bitmap(6).png",
+                "HovHeartimages": "heart.png",
+                "HovComImages": "speech-bubble.png",
+                "HovHeartText": "13.5",
+                "HovComText": "6.5"
+            },
+            {
+                "id": 8,
+                "images": "Bitmap(7).png",
+                "HovHeartimages": "heart.png",
+                "HovComImages": "speech-bubble.png",
+                "HovHeartText": "13.5",
+                "HovComText": "6.5"
+            },
+            {
+                "id": 9,
+                "images": "Bitmap(8).png",
+                "HovHeartimages": "heart.png",
+                "HovComImages": "speech-bubble.png",
+                "HovHeartText": "13.5",
+                "HovComText": "6.5"
+            },
+            {
+                "id": 10,
+                "images": "Rectangle-221.png",
+                "HovHeartimages": "heart.png",
+                "HovComImages": "speech-bubble.png",
+                "HovHeartText": "13.5",
+                "HovComText": "6.5"
+            },
+            {
+                "id": 11,
+                "images": "Rectangle-222.png",
+                "HovHeartimages": "heart.png",
+                "HovComImages": "speech-bubble.png",
+                "HovHeartText": "13.5",
+                "HovComText": "6.5"
+            },
+            {
+                "id": 12,
+                "images": "Rectangle-223.png",
+                "HovHeartimages": "heart.png",
+                "HovComImages": "speech-bubble.png",
+                "HovHeartText": "13.5",
+                "HovComText": "6.5"
+            }
+        ]
+
+    }
+}
