@@ -1,0 +1,97 @@
+{
+    "main": {
+        "fname": "Settings",
+        "settingsItem": [
+            {
+                "id": 1,
+                "imagesOne": "../images/settings/Vector(2).png",
+                "nameOne": "Profile Information",
+                "imagesTwo": "../images/settings/Vector.png",
+                "nameTwo": "General Settings",
+                "imagesThree": "../images/settings/Vector(1).png",
+                "nameThree": "Account Settings",
+                "imagesFore": "../images/settings/Vector(3).png",
+                "nameFore": "Notification Settings",
+                "imagesFive": "../images/settings/Vector(4).png",
+                "nameFive": "Payment Settings",
+                "imagesSixe": "../images/settings/Vector(5).png",
+                "nameSixe": "Privacy Settings",
+                "imagesSeven": "../images/settings/Vector(6).png",
+                "nameSeven": "Security Settings"
+            }
+        ]
+    },
+    "settingItemConent":{
+        "Account":[{
+            "id":1,
+            "AccName":"Account Settings",
+            "Name": "Nina Uhlikova",
+            "Username": "@ninauhikava",
+            "Email": "ninauu@gmail.com",
+            "Website": "ninauhlikova.com",
+            "Bio": "Model based out of New York. Follow my adventure as I travel the globe",
+            "Location": "UKraine, EU"
+        }],
+        "General":[{
+            "id":1,
+            "AccName":"General Settings",
+            "Name": "Asif",
+            "Username": "@ninauhikava",
+            "Email": "ninauu@gmail.com",
+            "Website": "ninauhlikova.com",
+            "Bio": "Model based out of New York. Follow my adventure as I travel the globe",
+            "Location": "UKraine, EU"
+        }],
+        "Notification":[{
+            "id":1,
+            "AccName":"Notification Settings",
+            "Name": "Nina Uhlikova",
+            "Username": "@ninauhikava",
+            "Email": "ninauu@gmail.com",
+            "Website": "ninauhlikova.com",
+            "Bio": "Model based out of New York. Follow my adventure as I travel the globe",
+            "Location": "UKraine, EU"
+        }],
+        "Payment":[{
+            "id":1,
+            "AccName":"Payment Settings",
+            "Name": "Nina Uhlikova",
+            "Username": "@ninauhikava",
+            "Email": "ninauu@gmail.com",
+            "Website": "ninauhlikova.com",
+            "Bio": "Model based out of New York. Follow my adventure as I travel the globe",
+            "Location": "UKraine, EU"
+        }],
+        "Privacy":[{
+            "id":1,
+            "AccName":"Privacy Settings",
+            "Name": "Nina Uhlikova",
+            "Username": "@ninauhikava",
+            "Email": "ninauu@gmail.com",
+            "Website": "ninauhlikova.com",
+            "Bio": "Model based out of New York. Follow my adventure as I travel the globe",
+            "Location": "UKraine, EU"
+        }],
+        "ProfileInformation":[{
+            "id":1,
+            "AccName":"Profile Settings",
+            "Name": "Nina Uhlikova",
+            "Username": "@ninauhikava",
+            "Email": "ninauu@gmail.com",
+            "Website": "ninauhlikova.com",
+            "Bio": "Model based out of New York. Follow my adventure as I travel the globe",
+            "Location": "UKraine, EU"
+        }],
+        "Security":[{
+            "id":1,
+            "AccName":"Security Settings",
+            "Name": "Nina Security",
+            "Username": "@ninauhikava",
+            "Email": "ninauu@gmail.com",
+            "Website": "ninauhlikova.com",
+            "Bio": "Model based out of New York. Follow my adventure as I travel the globe",
+            "Location": "UKraine, EU"
+        }]
+    }
+
+}

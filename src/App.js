@@ -1,11 +1,16 @@
-import { SignUpPage, LoginPage, PassRestPage, PublicProfile } from "./screen";
+import {
+  SignUpPage,
+  LoginPage,
+  PassRestPage,
+  Settings,
+} from "./screen";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import React, { useState, useEffect } from "react";
 function App() {
   const [resumeData, setResumeData] = useState({});
 
   useEffect(() => {
-    fetch("/json/publicProfile.json")
+    fetch("/json/Settings.json")
       .then((res) => res.json())
       .then((data) => {
         setResumeData(data);
@@ -16,7 +21,7 @@ function App() {
     <Router>
       <Switch>
         <Route path="/">
-          <PublicProfile data={resumeData.main} />
+          <Settings data={resumeData.main} />
         </Route>
         <Route path="/login">
           <LoginPage />

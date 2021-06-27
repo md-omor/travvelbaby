@@ -1,5 +1,5 @@
 {
-    "main": {
+    "main": {  
         "bannerImg": "Bitmap.png",
         "UserImg": "AvatarUserProfile.png",
         "UserName": "Nina Uhlikova",
@@ -36,7 +36,8 @@
             "Count": "100",
             "CountName": "FOLLOWING"
         }],
-        "publicProfilePostImg": [{
+        "publicProfilePostImg": [
+            {
                 "id": 1,
                 "images": "Bitmap.png",
                 "HovHeartimages": "heart.png",

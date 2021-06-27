@@ -1,11 +1,11 @@
-import React from "react";
+import React from "react"; 
 import "swiper/swiper.min.css";
 import "swiper/components/effect-coverflow/effect-coverflow.min.css";
 import "swiper/components/pagination/pagination.min.css";
 import "swiper/components/navigation/navigation.min.css";
 import "swiper/components/navigation/navigation.min.css";
 import styled from "styled-components";
-import NavBar from "./NavBar";
+import NavBar from "./NavBar"; 
 import { Swiper, SwiperSlide } from "swiper/react";
 
 export default function PublicProfile({ data }) {
